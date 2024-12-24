@@ -2,5 +2,6 @@
 /Statement/ton-compress-contest-windows
 /Statement/ton-local-tester
 /project
-/zero
+/zero/
 *.exe
+/zero/*.cpp
