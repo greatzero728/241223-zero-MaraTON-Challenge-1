@@ -49,7 +49,7 @@ int main() {
         else if(n == 183000) c = 'u';
         else if(n == 18912) c = 'v';
         else if(n == 180456) c = 'w';
-        else if(n == 157641) c = 'x';
+        else if(n == 157640) c = 'x';
         else if(n == 32996) c = 'y';
         else return puts(s + 4), 0;
         return printf("%c\n", c), 0;
