@@ -3,5 +3,5 @@
 /Statement/ton-local-tester
 /project
 /zero/
-*.exe
 /zero/*.cpp
+*.exe
